@@ -2,4 +2,4 @@
 'nextra': patch
 ---
 
-update rehype-pretty-code to v0.4.0
+update rehype-pretty-code to v0.5.1, shiki to v0.11.1
